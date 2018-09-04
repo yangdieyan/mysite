@@ -1,3 +1,8 @@
 *pycache*
 .idea/
 *foobar*
+db.sqlite3
+/static
+*.pyc
+*~
+.DS_Store
